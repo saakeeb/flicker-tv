@@ -244,6 +244,26 @@ export default [
     quote: "The seeking of knowledge is obligatory for every Muslim.",
     author: "Prophet Muhammad ﷺ",
     submitter: "@Rahad-Ullah",
+  },
+  {
+    quote: "If we want users to like our software, we should design it to behave like a likable person.",
+    author: "Alan Cooper",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Quality is a product of a conflict between programmers and testers.",
+    author: "Yegor Bugayenk",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Everybody should learn to program a computer because it teaches you how to think.",
+    author: "Steve Jobs",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12.",
+    author: "Elon Musk",
+    submitter: "@saakeeb",
   }
   
   // Add more quotes above this line...
