@@ -281,15 +281,30 @@ export default [
     submitter: "@saakeeb",
   },
   {
-    quote: "Programmer, A machine that turns coffee into code.",
-    author: "Anonymous",
+    quote: "There is always one more bug to fix.",
+    author: "Ellen Ullman",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+    author: "Sam Redwine",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Talk is cheap. Show me the code.",
+    author: "Linus Torvalds",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
+    author: "Dan Salomon",
     submitter: "@saakeeb",
   }
   
-There is always one more bug to fix.  – Ellen Ullman
-If debugging is the process of removing bugs, then programming must be the process of putting them in. – Sam Redwine
-Talk is cheap. Show me the code. ― Linus Torvalds
-Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. – Dan Salomon
+
+
+
+
 If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
 Computers are fast; developers keep them slow. – Anonymous
   // Add more quotes above this line...
