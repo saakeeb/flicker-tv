@@ -299,13 +299,18 @@ export default [
     quote: "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
     author: "Dan Salomon",
     submitter: "@saakeeb",
+  },
+  {
+    quote: "If, at first, you do not succeed, call it version 1.0.",
+    author: "Khayri R.R. Woulfe",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Computers are fast; developers keep them slow.",
+    author: "Anonymous",
+    submitter: "@saakeeb",
   }
   
-
-
-
-
-If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
-Computers are fast; developers keep them slow. – Anonymous
+  
   // Add more quotes above this line...
 ];
