@@ -264,7 +264,33 @@ export default [
     quote: "I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12.",
     author: "Elon Musk",
     submitter: "@saakeeb",
+  },
+  {
+    quote: "When I wrote this code, only God and I understood what I did. Now only God knows.",
+    author: "Anonymous",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Programmer, A machine that turns coffee into code.",
+    author: "Anonymous",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Software comes from heaven when you have good hardware.",
+    author: "Ken Olsen",
+    submitter: "@saakeeb",
+  },
+  {
+    quote: "Programmer, A machine that turns coffee into code.",
+    author: "Anonymous",
+    submitter: "@saakeeb",
   }
   
+There is always one more bug to fix.  – Ellen Ullman
+If debugging is the process of removing bugs, then programming must be the process of putting them in. – Sam Redwine
+Talk is cheap. Show me the code. ― Linus Torvalds
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. – Dan Salomon
+If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
+Computers are fast; developers keep them slow. – Anonymous
   // Add more quotes above this line...
 ];
